@@ -1,4 +1,4 @@
-<h1 align="center">Rafa Pimentel</h1>
+<h1 align="center">Rafael Pimentel</h1>
 <h3 align="center">Quality Engineering | Test Automation | AI-assisted QA Workflows</h3>
 
 <p align="center">
@@ -46,10 +46,10 @@ flowchart LR
 
 ## Public work
 
-| Project | What it demonstrates | Stack |
+| Project | What it proves | Stack |
 |---|---|---|
-| [Oraculum / nabucodonosor](https://github.com/RaafaPimentel/nabucodonosor) | Full-stack technology intelligence dashboard with RSS ingestion, ranking, Supabase persistence, admin flow, security notes, and agent-based project structure. | Next.js, TypeScript, Tailwind CSS, Supabase, PostgreSQL, Vercel |
-| [kabug-rb](https://github.com/RaafaPimentel/kabug-rb) | BDD-style web test automation lab using Cucumber and Capybara, with Docker/Jenkins pipeline elements. | Ruby, Cucumber, Capybara, Gherkin, Docker, Jenkins |
+| [Oraculum / nabucodonosor](https://github.com/RaafaPimentel/nabucodonosor) | Full-stack technology intelligence dashboard with RSS ingestion, ranking agents, Supabase persistence, admin flow, security notes, and agent-based project structure. | Next.js, TypeScript, Tailwind CSS, Supabase, PostgreSQL, Vercel |
+| [kabug-rb](https://github.com/RaafaPimentel/kabug-rb) | BDD web test automation lab with Cucumber, Capybara, Docker and Jenkins pipeline. | Ruby, Cucumber, Capybara, Gherkin, Docker, Jenkins |
 
 > Next portfolio targets: Playwright E2E automation, API contract testing, CI quality gates, and a sanitized AI-assisted QA agents workspace.
 
