@@ -1,4 +1,4 @@
-<h1 align="center">Rafa Pimentel</h1>
+<h1 align="center">Rafael Pimentel</h1>
 <h3 align="center">Quality Engineering | Test Automation | AI-assisted QA Workflows</h3>
 
 <p align="center">
