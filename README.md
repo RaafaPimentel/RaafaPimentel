@@ -48,8 +48,8 @@ flowchart LR
 
 | Project | What it proves | Stack |
 |---|---|---|
-| [Oraculum / nabucodonosor](https://github.com/RaafaPimentel/nabucodonosor) | Full-stack technology intelligence dashboard with RSS ingestion, ranking agents, Supabase persistence, admin flow, security notes, and agent-based project structure. | Next.js, TypeScript, Tailwind CSS, Supabase, PostgreSQL, Vercel |
-| [kabug-rb](https://github.com/RaafaPimentel/kabug-rb) | BDD web test automation lab with Cucumber, Capybara, Docker and Jenkins pipeline. | Ruby, Cucumber, Capybara, Gherkin, Docker, Jenkins |
+| [Oraculum / nabucodonosor](https://github.com/RaafaPimentel/nabucodonosor) | Full-stack technology intelligence dashboard with RSS ingestion, ranking agents, Supabase persistence, admin flow, security notes, CI workflow, and agent-based project structure. | Next.js, TypeScript, Tailwind CSS, Supabase, PostgreSQL, Vercel, GitHub Actions |
+| [kabug-rb](https://github.com/RaafaPimentel/kabug-rb) | BDD web test automation lab with Cucumber, Capybara, Docker and Jenkins pipeline elements. | Ruby, Cucumber, Capybara, Gherkin, Docker, Jenkins |
 
 > Next portfolio targets: Playwright E2E automation, API contract testing, CI quality gates, and a sanitized AI-assisted QA agents workspace.
 
