@@ -1,7 +1,3 @@
-<p align="center">
-  <img src="assets/profile-avatar.jpg" width="145" alt="Rafa Pimentel profile avatar" />
-</p>
-
 <h1 align="center">Rafa Pimentel</h1>
 <h3 align="center">Quality Engineering | Test Automation | AI-assisted QA Workflows</h3>
 
